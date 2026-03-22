@@ -1,4 +1,4 @@
-const RADIO_NAME = 'BochonMix Web Radio';
+const RADIO_NAME = 'BochonMix Radio';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
 const URL_STREAMING = 'https://stream.zeno.fm/qpt7aehaechvv';
